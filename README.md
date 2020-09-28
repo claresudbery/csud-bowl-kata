@@ -4,6 +4,12 @@ Welcome to your new gem! In this directory, you'll find the files you need to be
 
 TODO: Delete this and the text above, and describe your gem
 
+This is based on my original [bowling kata code](https://github.com/claresudbery/bowling-kata-ruby).
+
+The kata is described [here](https://learn.madetech.com/katas/bowling).
+
+I am following [this tutorial](https://learn.madetech.com/guides/06-Gem-Packaging/) for creating a Ruby gem.
+
 ## Installation
 
 Add this line to your application's Gemfile:
